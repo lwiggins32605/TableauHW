@@ -1,4 +1,4 @@
-You can view my Tableau dashboard online at 
+You can view my Tableau dashboard online at https://public.tableau.com/profile/laytoamb.wiggins#!/
 or open the file `2018 Citi Bike Data.twbx` from this repo. 
 
 
